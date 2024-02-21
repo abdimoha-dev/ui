@@ -364,14 +364,14 @@ const createCustomFilteringInHeader = (hideFilterInput) => {
                     selected={relativePeriod}
                     onClick={() => onClick({ relativePeriod: true })}
                 >
-                    Relative periods
+                    Relative periodssssssssss
                 </Tab>
 
                 <Tab
                     selected={!relativePeriod}
                     onClick={() => onClick({ relativePeriod: false })}
                 >
-                    Fixed periods
+                    Fixed periodsssssssssss
                 </Tab>
             </TabBar>
 
